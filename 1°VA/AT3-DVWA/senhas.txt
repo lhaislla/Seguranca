@@ -1,0 +1,10 @@
+admin
+123456
+654321
+dvwa
+hacking
+vulnerability
+password
+passws
+subscribe
+channel
